@@ -15,7 +15,7 @@ function Counter() {
         <div className="wrapper">
             <div className="wrapper__counter">
                 <button onClick={handleDecrement}>-</button>
-                <p>Count is {count}</p>
+                <h1>Count is {count}</h1>
                 <button onClick={handleIncrement}>+</button>
                 <button onClick={() => setCount(0)}>Reset</button>
             </div>

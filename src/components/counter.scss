@@ -13,19 +13,22 @@
         background-color: #00703C;
         border: none;
         border-radius: 0;
+        box-shadow: 0 2px 0 #002d18;
         color: #FFF;
         flex-flow: row;
         font-size: 16px;
         font-size: 1rem;
         height: 40px;
+        letter-spacing: 1px;
         line-height: 1.1875;
         margin: 32px 0;
         width: 100%;
     }
 
-    p {
-        font-size: 19px;
-        font-size: 1.1875rem;
+    h1 {
+        font-size: 32px;
+        font-size: 2rem;
+        letter-spacing: 1px;
         line-height: 1.31579;
     }
 }
